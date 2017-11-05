@@ -1,2 +1,2 @@
 # ML
-Micro Master project 2. 
+ Projects are regression and classification method.

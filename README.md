@@ -1,2 +1,2 @@
 # ML
- Projects are regression and classification method.
+regression and classification method.
